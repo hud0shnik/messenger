@@ -9,3 +9,4 @@
 
 
 <h3 align="left">📷 Скриншот:</h3>
+<img src="https://github.com/hud0shnik/messenger/blob/main/screenshot.png" alt="picture"/>
